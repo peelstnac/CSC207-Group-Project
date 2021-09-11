@@ -1,0 +1,153 @@
+[
+  {
+    "userType": "TRIAL",
+    "commandPermissions": [
+      "CREATE_EVENT",
+      "BROWSE_EVENTS",
+      "BROWSE_USERS",
+      "EXIT_TRIAL",
+      "GO_BACK"
+    ],
+    "eventViewPermissions": [
+      "OWNED",
+      "PUBLIC"
+    ],
+    "userViewPermissions": [
+      "ALL"
+    ]
+  },
+  {
+    "userType": "REGULAR",
+    "commandPermissions": [
+      "CREATE_EVENT",
+      "BROWSE_EVENTS",
+      "BROWSE_USERS",
+      "ACCOUNT_MENU",
+      "MESSAGING_MENU",
+      "SAVE",
+      "GO_BACK",
+      "LOG_OUT",
+      "ATTEND_EVENT",
+      "UNATTEND_EVENT",
+      "EDIT_EVENT",
+      "CHANGE_EVENT_PRIVACY",
+      "DELETE_EVENT",
+      "SEND_MESSAGE",
+      "FRIEND_USER",
+      "UNFRIEND_USER",
+      "CHANGE_USERNAME",
+      "CHANGE_EMAIL",
+      "CHANGE_PASSWORD",
+      "DELETE_ACCOUNT",
+      "VIEW_MESSAGES",
+      "VIEW_ANNOUNCEMENTS",
+      "MESSAGE_ADMINS"
+    ],
+    "eventViewPermissions": [
+      "OWNED",
+      "ATTENDING",
+      "NOT_ATTENDING",
+      "PUBLIC",
+      "FRIENDS_ONLY"
+    ],
+    "userViewPermissions": [
+      "ALL",
+      "FRIENDS"
+    ]
+  },
+  {
+    "userType": "TEMPORARY",
+    "commandPermissions": [
+      "CREATE_EVENT",
+      "BROWSE_EVENTS",
+      "BROWSE_USERS",
+      "ACCOUNT_MENU",
+      "MESSAGING_MENU",
+      "SAVE",
+      "GO_BACK",
+      "LOG_OUT",
+      "ATTEND_EVENT",
+      "UNATTEND_EVENT",
+      "EDIT_EVENT",
+      "CHANGE_EVENT_PRIVACY",
+      "DELETE_EVENT",
+      "SEND_MESSAGE",
+      "FRIEND_USER",
+      "UNFRIEND_USER",
+      "CHANGE_USERNAME",
+      "CHANGE_EMAIL",
+      "CHANGE_PASSWORD",
+      "DELETE_ACCOUNT",
+      "VIEW_MESSAGES",
+      "VIEW_ANNOUNCEMENTS",
+      "MESSAGE_ADMINS"
+    ],
+    "eventViewPermissions": [
+      "OWNED",
+      "ATTENDING",
+      "NOT_ATTENDING",
+      "PUBLIC",
+      "FRIENDS_ONLY"
+    ],
+    "userViewPermissions": [
+      "ALL",
+      "FRIENDS"
+    ]
+  },
+  {
+    "userType": "ADMIN",
+    "commandPermissions": [
+      "CREATE_EVENT",
+      "BROWSE_EVENTS",
+      "BROWSE_USERS",
+      "ACCOUNT_MENU",
+      "ADMIN_MENU",
+      "MESSAGING_MENU",
+      "SAVE",
+      "GO_BACK",
+      "LOG_OUT",
+      "ATTEND_EVENT",
+      "UNATTEND_EVENT",
+      "SUSPEND_EVENT",
+      "UNSUSPEND_EVENT",
+      "EDIT_EVENT",
+      "CHANGE_EVENT_PRIVACY",
+      "DELETE_EVENT",
+      "SEND_MESSAGE",
+      "FRIEND_USER",
+      "UNFRIEND_USER",
+      "SUSPEND_USER",
+      "UNSUSPEND_USER",
+      "MAKE_ADMIN",
+      "CHANGE_USERNAME",
+      "CHANGE_EMAIL",
+      "CHANGE_PASSWORD",
+      "DELETE_ACCOUNT",
+      "VIEW_ADMIN_INBOX",
+      "SEND_ANNOUNCEMENT",
+      "CREATE_TEMPLATE",
+      "DELETE_TEMPLATE",
+      "EDIT_TEMPLATE",
+      "VIEW_MESSAGES",
+      "VIEW_ANNOUNCEMENTS",
+      "MESSAGE_ADMINS",
+      "ADD_TEMPLATE_FIELD",
+      "DELETE_TEMPLATE_FIELD",
+      "CHANGE_TEMPLATE_NAME"
+    ],
+    "eventViewPermissions": [
+      "OWNED",
+      "ATTENDING",
+      "NOT_ATTENDING",
+      "PUBLIC",
+      "FRIENDS_ONLY",
+      "ALL",
+      "SUSPENDED"
+    ],
+    "userViewPermissions": [
+      "ALL",
+      "FRIENDS",
+      "SUSPENDED"
+    ]
+  }
+]

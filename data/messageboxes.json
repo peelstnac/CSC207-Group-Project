@@ -1,0 +1,127 @@
+[
+  {
+    "messages": [
+      {
+        "messageHeadLine": "Testing!",
+        "messageBody": "......",
+        "sender": "ADMIN",
+        "recipient": "ANNOUNCEMENT",
+        "sentDate": "2021-08-18T09:43:22.460"
+      }
+    ],
+    "owner": "ANNOUNCEMENT",
+    "currentSize": 1
+  },
+  {
+    "messages": [
+      {
+        "messageHeadLine": "test",
+        "messageBody": "testing!",
+        "sender": "ADMIN",
+        "recipient": "AustinA",
+        "sentDate": "2021-08-14T20:26:54.298"
+      },
+      {
+        "messageHeadLine": "Admin Announcement ",
+        "messageBody": "Testing!!!!",
+        "sender": "ADMIN",
+        "recipient": "AustinA",
+        "sentDate": "2021-08-14T20:38:43.475"
+      },
+      {
+        "messageHeadLine": "Very cool stuff",
+        "messageBody": "Message body",
+        "sender": "AustinR",
+        "recipient": "AustinA",
+        "sentDate": "2021-08-14T20:42:10.395"
+      }
+    ],
+    "owner": "AustinA",
+    "currentSize": 3
+  },
+  {
+    "messages": [
+      {
+        "messageHeadLine": "Admin Announcement ",
+        "messageBody": "Testing!!!!",
+        "sender": "ADMIN",
+        "recipient": "haze",
+        "sentDate": "2021-08-14T20:38:43.477"
+      }
+    ],
+    "owner": "haze",
+    "currentSize": 1
+  },
+  {
+    "messages": [],
+    "owner": "Freeman",
+    "currentSize": 0
+  },
+  {
+    "messages": [],
+    "owner": "jsjchris",
+    "currentSize": 0
+  },
+  {
+    "messages": [
+      {
+        "messageHeadLine": "Admin Message Test!",
+        "messageBody": "testing",
+        "sender": "AustinR",
+        "recipient": "ADMIN",
+        "sentDate": "2021-08-14T20:46:40.511"
+      },
+      {
+        "messageHeadLine": "Testing",
+        "messageBody": "Testing Body",
+        "sender": "AustinA",
+        "recipient": "ADMIN",
+        "sentDate": "2021-08-18T09:34:50.857"
+      },
+      {
+        "messageHeadLine": "MAKE ME ADMIN",
+        "messageBody": "MAKE ME ADMIN AUSTIN",
+        "sender": "jsjchris",
+        "recipient": "ADMIN",
+        "sentDate": "2021-08-22T22:33:33.866"
+      }
+    ],
+    "owner": "ADMIN",
+    "currentSize": 3
+  },
+  {
+    "messages": [],
+    "owner": "jsjchris2",
+    "currentSize": 0
+  },
+  {
+    "messages": [],
+    "owner": "AustinA2",
+    "currentSize": 0
+  },
+  {
+    "messages": [],
+    "owner": "jsjchris3",
+    "currentSize": 0
+  },
+  {
+    "messages": [
+      {
+        "messageHeadLine": "Admin Announcement ",
+        "messageBody": "Testing!!!!",
+        "sender": "ADMIN",
+        "recipient": "AustinR",
+        "sentDate": "2021-08-14T20:38:43.477"
+      },
+      {
+        "messageHeadLine": "Hello",
+        "messageBody": "test",
+        "sender": "AustinA",
+        "recipient": "AustinR",
+        "sentDate": "2021-08-22T14:12:27.529"
+      }
+    ],
+    "owner": "AustinR",
+    "currentSize": 2
+  }
+]

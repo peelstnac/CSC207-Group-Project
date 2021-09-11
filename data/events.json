@@ -1,0 +1,293 @@
+[
+  {
+    "eventId": "d9d9427d-9e66-4a53-8eee-a4f2219b54b9",
+    "eventName": "some name",
+    "eventOwner": "hasti2c",
+    "eventType": "Concert",
+    "numAttendees": 2,
+    "suspended": false,
+    "privacyType": "PUBLIC",
+    "createdTime": "2021-07-26T11:10:59.566",
+    "editTime": "2021-07-26T11:10:59.566",
+    "fields": {
+      "Max Attendees": [
+        "java.lang.Integer",
+        true,
+        "30"
+      ],
+      "Concert Genre": [
+        "java.lang.String",
+        false,
+        "\"rock\""
+      ],
+      "Performer(s)": [
+        "java.lang.String",
+        false,
+        "\"someone\""
+      ],
+      "Venue": [
+        "java.lang.String",
+        true,
+        "\"somewhere\""
+      ],
+      "Time": [
+        "java.time.LocalDateTime",
+        true,
+        "{\n  \"date\": {\n    \"year\": 2022,\n    \"month\": 3,\n    \"day\": 24\n  },\n  \"time\": {\n    \"hour\": 1,\n    \"minute\": 0,\n    \"second\": 0,\n    \"nano\": 0\n  }\n}"
+      ]
+    }
+  },
+  {
+    "eventId": "ff63aa78-66b3-439f-ab95-d565327e2ff6",
+    "eventName": "Gatorade",
+    "eventOwner": "jsjchris",
+    "eventType": "Birthday Party",
+    "numAttendees": 0,
+    "suspended": false,
+    "privacyType": "PUBLIC",
+    "createdTime": "2021-08-22T22:29:44.239",
+    "editTime": "2021-08-22T22:29:44.239",
+    "fields": {
+      "Max Attendees": [
+        "java.lang.Integer",
+        false,
+        "null"
+      ],
+      "Time (yyyy-MM-dd HH:mm)": [
+        "java.time.LocalDateTime",
+        true,
+        "{\n  \"date\": {\n    \"year\": 2021,\n    \"month\": 7,\n    \"day\": 21\n  },\n  \"time\": {\n    \"hour\": 13,\n    \"minute\": 58,\n    \"second\": 0,\n    \"nano\": 0\n  }\n}"
+      ],
+      "Food Options": [
+        "java.lang.String",
+        true,
+        "\"asdas\""
+      ],
+      "Dress Code": [
+        "java.lang.String",
+        false,
+        "null"
+      ],
+      "Is Gift Required": [
+        "java.lang.Boolean",
+        false,
+        "null"
+      ],
+      "Place": [
+        "java.lang.String",
+        true,
+        "\"toronto\""
+      ]
+    }
+  },
+  {
+    "eventId": "06bb26a6-dd8d-4fb8-bdd2-7e61c9683f12",
+    "eventName": "hi i am an event",
+    "eventOwner": "AustinA",
+    "eventType": "Concert",
+    "numAttendees": 0,
+    "suspended": false,
+    "privacyType": "FRIENDS_ONLY",
+    "createdTime": "2021-08-23T22:06:06.921",
+    "editTime": "2021-08-23T22:06:06.921",
+    "fields": {
+      "Max Attendees": [
+        "java.lang.Integer",
+        true,
+        "30"
+      ],
+      "Concert Genre": [
+        "java.lang.String",
+        false,
+        "null"
+      ],
+      "Time (yyyy-MM-dd HH:mm)": [
+        "java.time.LocalDateTime",
+        true,
+        "{\n  \"date\": {\n    \"year\": 2022,\n    \"month\": 1,\n    \"day\": 1\n  },\n  \"time\": {\n    \"hour\": 0,\n    \"minute\": 0,\n    \"second\": 0,\n    \"nano\": 0\n  }\n}"
+      ],
+      "Performer(s)": [
+        "java.lang.String",
+        false,
+        "null"
+      ],
+      "Venue": [
+        "java.lang.String",
+        true,
+        "\"idk probably some place\""
+      ],
+      "Serving Alcohol": [
+        "java.lang.Boolean",
+        true,
+        "false"
+      ]
+    }
+  },
+  {
+    "eventId": "e255932a-87d8-4e8e-976c-b96c4b6b95cd",
+    "eventName": "qweq",
+    "eventOwner": "AustinA",
+    "eventType": "Wedding",
+    "numAttendees": 0,
+    "suspended": false,
+    "privacyType": "PUBLIC",
+    "createdTime": "2021-08-22T23:22:45.111",
+    "editTime": "2021-08-22T23:22:45.111",
+    "fields": {
+      "Max Attendees": [
+        "java.lang.Integer",
+        false,
+        "null"
+      ],
+      "Time (yyyy-MM-dd HH:mm)": [
+        "java.time.LocalDateTime",
+        true,
+        "{\n  \"date\": {\n    \"year\": 2017,\n    \"month\": 7,\n    \"day\": 21\n  },\n  \"time\": {\n    \"hour\": 12,\n    \"minute\": 22,\n    \"second\": 0,\n    \"nano\": 0\n  }\n}"
+      ],
+      "Wedding Couple": [
+        "java.lang.String",
+        true,
+        "\"qweqw\""
+      ],
+      "Dress Code": [
+        "java.lang.String",
+        false,
+        "null"
+      ],
+      "Is Gift Required": [
+        "java.lang.Boolean",
+        false,
+        "null"
+      ],
+      "Location": [
+        "java.lang.String",
+        true,
+        "\"twe\""
+      ]
+    }
+  },
+  {
+    "eventId": "3ce70a4b-e1d0-4250-ab0b-e239428012f6",
+    "eventName": "ewrwe",
+    "eventOwner": "jsjchris",
+    "eventType": "Wedding",
+    "numAttendees": 0,
+    "suspended": false,
+    "privacyType": "PUBLIC",
+    "createdTime": "2021-08-22T23:09:28.964",
+    "editTime": "2021-08-22T23:09:28.964",
+    "fields": {
+      "Max Attendees": [
+        "java.lang.Integer",
+        false,
+        "null"
+      ],
+      "Time (yyyy-MM-dd HH:mm)": [
+        "java.time.LocalDateTime",
+        true,
+        "{\n  \"date\": {\n    \"year\": 2021,\n    \"month\": 7,\n    \"day\": 21\n  },\n  \"time\": {\n    \"hour\": 12,\n    \"minute\": 35,\n    \"second\": 0,\n    \"nano\": 0\n  }\n}"
+      ],
+      "Wedding Couple": [
+        "java.lang.String",
+        true,
+        "\"werw\""
+      ],
+      "Dress Code": [
+        "java.lang.String",
+        false,
+        "null"
+      ],
+      "Is Gift Required": [
+        "java.lang.Boolean",
+        false,
+        "null"
+      ],
+      "Location": [
+        "java.lang.String",
+        true,
+        "\"toronto\""
+      ]
+    }
+  },
+  {
+    "eventId": "5f5db203-9fdf-4caa-9f31-6acf5b799147",
+    "eventName": "event",
+    "eventOwner": "haze",
+    "eventType": "Concert",
+    "numAttendees": 0,
+    "suspended": false,
+    "privacyType": "PUBLIC",
+    "createdTime": "2021-08-23T18:27:13.063",
+    "editTime": "2021-08-23T18:27:13.063",
+    "fields": {
+      "Max Attendees": [
+        "java.lang.Integer",
+        true,
+        "1"
+      ],
+      "Concert Genre": [
+        "java.lang.String",
+        false,
+        "null"
+      ],
+      "Time (yyyy-MM-dd HH:mm)": [
+        "java.time.LocalDateTime",
+        true,
+        "{\n  \"date\": {\n    \"year\": 2022,\n    \"month\": 2,\n    \"day\": 2\n  },\n  \"time\": {\n    \"hour\": 2,\n    \"minute\": 2,\n    \"second\": 0,\n    \"nano\": 0\n  }\n}"
+      ],
+      "Performer(s)": [
+        "java.lang.String",
+        false,
+        "null"
+      ],
+      "Venue": [
+        "java.lang.String",
+        true,
+        "\"venue\""
+      ],
+      "Serving Alcohol": [
+        "java.lang.Boolean",
+        true,
+        "false"
+      ]
+    }
+  },
+  {
+    "eventId": "fae10db2-75c7-4d31-99ea-2ecde804ccc8",
+    "eventName": "New Wedding",
+    "eventOwner": "AustinA",
+    "eventType": "Wedding",
+    "numAttendees": 0,
+    "suspended": false,
+    "privacyType": "PUBLIC",
+    "createdTime": "2021-08-23T21:25:30.393",
+    "editTime": "2021-08-23T21:25:30.393",
+    "fields": {
+      "Max Attendees": [
+        "java.lang.Integer",
+        false,
+        "200"
+      ],
+      "Time (yyyy-MM-dd HH:mm)": [
+        "java.time.LocalDateTime",
+        true,
+        "{\n  \"date\": {\n    \"year\": 1111,\n    \"month\": 11,\n    \"day\": 11\n  },\n  \"time\": {\n    \"hour\": 11,\n    \"minute\": 11,\n    \"second\": 0,\n    \"nano\": 0\n  }\n}"
+      ],
+      "Wedding Couple": [
+        "java.lang.String",
+        true,
+        "\"Sam, Same\""
+      ],
+      "Dress Code": [
+        "java.lang.String",
+        false,
+        "\"B\\u0026W\""
+      ],
+      "Is Gift Required": [
+        "java.lang.Boolean",
+        false,
+        "false"
+      ]
+    }
+  }
+]
